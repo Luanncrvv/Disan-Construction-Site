@@ -1,9 +1,0 @@
-- Logo / Header
-
-- Company apresentation
-
-- Our services
-- Latest works
-- Awesome team
-
-- Footer
